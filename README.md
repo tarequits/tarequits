@@ -36,8 +36,6 @@ Thanks for visiting! Feel free to reach out for collaboration or just to chat ab
 
 ---
 
-Feel free to customize the content to better reflect your personality, experiences, and aspirations. This README is an opportunity to showcase not only your technical skills but also your enthusiasm for coding and learning.
-
 <!--
 **tarequits/tarequits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
