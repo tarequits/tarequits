@@ -1,4 +1,4 @@
-Certainly! Here's a draft for your GitHub About Me README:
+
 
 ---
 
@@ -25,7 +25,7 @@ I've had the opportunity to work on diverse projects, utilizing my skills in Pyt
 
 ### 🌱 Always Learning
 
-I believe in continuous learning and staying updated with the latest technologies. Currently, I'm diving into [Microservice Architecture](https://microservices.io/patterns/microservices.html) and [CI/CD]([link](https://resources.github.com/ci-cd/)) to expand my skill set.
+I believe in continuous learning and staying updated with the latest technologies. Currently, I'm diving into [Microservice Architecture](https://microservices.io/patterns/microservices.html) and [CI/CD](https://resources.github.com/ci-cd/) to expand my skill set.
 
 ### 📫 Let's Connect
 
