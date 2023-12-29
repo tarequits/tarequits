@@ -30,7 +30,7 @@ I believe in continuous learning and staying updated with the latest technologie
 ### 📫 Let's Connect
 
 - **Email**: [tareqanam@outlook.com](mailto:tareqanam@outlook.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/tareq-anam-8a523965/)
+- **LinkedIn**: [Tareq Anam](https://www.linkedin.com/in/tareq-anam-8a523965/)
 
 Thanks for visiting! Feel free to reach out for collaboration or just to chat about tech. 😊
 
