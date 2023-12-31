@@ -8,10 +8,10 @@ I'm a passionate Python and backend software developer with a focus on building 
 
 ### 💻 Tech Stack
 
-- **Languages**: Python (Fluent)
+- **Languages**: Python
 - **Frameworks**: Flask, FastAPI, Django
 - **Libraries**: NumPy, Pandas
-- **Frontend**: HTML, CSS, JavaScript, jQuery, AJAX
+- **Frontend**: HTML, CSS, JavaScript, jQuery, AJAX, NodeJS
 - **DevOps**: Docker, Docker Compose
 - **Task Management**: Celery
 - **Message Broker**: RabbitMQ, VerneMQ
